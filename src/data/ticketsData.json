@@ -1,0 +1,107 @@
+[
+  {
+    "id": "0321466",
+    "number": 1,
+    "clientAddress": "M.Jarosz@gmail.com",
+    "agentAddress": "M.Nowak@company.com",
+    "creationDate": "2023-07-08T08:00:00Z",
+    "modificationDate": "2023-07-08T09:00:00Z",
+    "priority": "High",
+    "status": "Open",
+    "assigned": "Agent Smith",
+    "subject": "Need help with account issue",
+    "description": "I can't access my account. I tried resetting my password but I'm still having issues."
+  },
+  {
+    "id": "0421426",
+    "number": 2,
+    "clientAddress": "j.kowalski@gmail.com",
+    "agentAddress": "M.Nowak@company.com",
+    "creationDate": "2023-07-08T10:00:00Z",
+    "modificationDate": "2023-07-08T11:00:00Z",
+    "priority": "Low",
+    "status": "Closed",
+    "assigned": "Agent Johnson",
+    "subject": "Billing inquiry",
+    "description": "I have a question about my latest bill. The amount seems incorrect."
+  },
+
+  {
+    "id": "0444444",
+    "number": 21,
+    "clientAddress": "client21@example.com",
+    "agentAddress": "agent21@company.com",
+    "creationDate": "2023-07-08T08:00:00Z",
+    "modificationDate": "2023-07-08T09:00:00Z",
+    "priority": "Low",
+    "status": "Closed",
+    "assigned": "Agent Wilson",
+    "subject": "General question",
+    "description": "Can I upgrade my account to get more features?"
+  },
+  {
+    "id": "0555555",
+    "number": 22,
+    "clientAddress": "client22@example.com",
+    "agentAddress": "agent22@company.com",
+    "creationDate": "2023-07-08T10:00:00Z",
+    "modificationDate": "2023-07-08T11:00:00Z",
+    "priority": "High",
+    "status": "Open",
+    "assigned": "Agent Davis",
+    "subject": "Account issue",
+    "description": "My account was charged twice for the same service."
+  },
+  {
+    "id": "0555556",
+    "number": 23,
+    "clientAddress": "client23@example.com",
+    "agentAddress": "agent23@company.com",
+    "creationDate": "2023-07-08T11:00:00Z",
+    "modificationDate": "2023-07-08T12:00:00Z",
+    "priority": "Low",
+    "status": "Closed",
+    "assigned": "Agent Harris",
+    "subject": "Payment Issue",
+    "description": "I have been overcharged for my last service."
+  },
+  {
+    "id": "0555557",
+    "number": 24,
+    "clientAddress": "client24@example.com",
+    "agentAddress": "agent24@company.com",
+    "creationDate": "2023-07-08T12:00:00Z",
+    "modificationDate": "2023-07-08T13:00:00Z",
+    "priority": "High",
+    "status": "Open",
+    "assigned": "Agent Clark",
+    "subject": "Service cancellation",
+    "description": "I would like to cancel my service subscription."
+  },
+  {
+    "id": "0555558",
+    "number": 25,
+    "clientAddress": "client25@example.com",
+    "agentAddress": "agent25@company.com",
+    "creationDate": "2023-07-08T13:00:00Z",
+    "modificationDate": "2023-07-08T14:00:00Z",
+    "priority": "Low",
+    "status": "Closed",
+    "assigned": "Agent Lewis",
+    "subject": "Service upgrade",
+    "description": "I want to upgrade my service to the premium plan."
+  },
+  {
+    "id": "0555559",
+    "number": 26,
+    "clientAddress": "client26@example.com",
+    "agentAddress": "agent26@company.com",
+    "creationDate": "2023-07-08T14:00:00Z",
+    "modificationDate": "2023-07-08T15:00:00Z",
+    "priority": "High",
+    "status": "Open",
+    "assigned": "Agent Walker",
+    "subject": "Service outage",
+    "description": "My service has been down for the last two hours."
+  }
+]
